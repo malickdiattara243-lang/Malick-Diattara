@@ -1,4 +1,13 @@
-![Mon logo](/image/IMG_2354.jpeg)
+# Malick Diattara
+
+![Logo](image/IMG_2354.jpeg)      <!-- ça reste ton petit logo -->
+
+---
+
+## Mon portfolio
+
+![Image Portfolio](image/Portfolio1.jpeg)   <!-- ça affichera ton image principale -->
+
 #  Bonjour, je suis Malick Diattara
 
  **Junior Data Scientist** |  Ottawa, Canada  
