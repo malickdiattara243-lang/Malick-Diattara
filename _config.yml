@@ -1,6 +1,5 @@
 title: "Malick Diattara"
+description: "Portfolio Data Scientist – Data Analyst – IA"
 logo: /img/nny.jpeg
-description: "Portofolio Data Scientist-Data Analyst-IA"
-show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 lang: fr
