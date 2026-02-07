@@ -1,4 +1,4 @@
-
+![Mon logo](/image/IMG_2354.jpeg)
 #  Bonjour, je suis Malick Diattara
 
  **Junior Data Scientist** |  Ottawa, Canada  
