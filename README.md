@@ -1,6 +1,4 @@
 # Malick Diattara
-#  Bonjour, je suis Malick Diattara
-
  **Junior Data Scientist** |  Ottawa, Canada  
 malickdiattara243@gmail.com | +1 819-979-3981  
 
