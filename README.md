@@ -1,4 +1,5 @@
-![Malick Diattara](img/nny.jpeg)
+<img src="img/nny.jpeg" alt="Malick Diattara" width="200" style="display:block; margin:auto; border-radius:50%;">
+
 
 #  Bonjour, je suis Malick Diattara
 
