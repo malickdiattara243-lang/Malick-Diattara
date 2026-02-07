@@ -1,3 +1,5 @@
+![Malick Diattara](img/nny.jpeg)
+
 #  Bonjour, je suis Malick Diattara
 
  **Junior Data Scientist** |  Ottawa, Canada  
